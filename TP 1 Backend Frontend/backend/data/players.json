@@ -214,7 +214,7 @@
         "name": {
             "first": "Nahuel",
             "second":"-",
-            "last": "Molina Lucero"
+            "last": "Molina"
         },
         "age": 24,
         "position": "Defender",
@@ -233,7 +233,7 @@
         "name": {
             "first": "Leandro",
             "second": "Daniel",
-            "last": "Paredez Benitez"
+            "last": "Paredez"
         },
         "age": 28,
         "position": "Midfield",
@@ -386,7 +386,7 @@
         "name": {
             "first": "Lionel",
             "second": "Andres",
-            "last": "Messi Cuccittini"
+            "last": "Messi"
         },
         "age": 35,
         "position": "Forward",
@@ -424,7 +424,7 @@
         "name": {
             "first": "Angel",
             "second": "Martin",
-            "last": "Correa Martinez"
+            "last": "Correa"
         },
         "age": 27,
         "position": "Forward",
@@ -481,7 +481,7 @@
         "name": {
             "first": "Lautaro",
             "second": "Javier",
-            "last": "Martinez Gutierrez"
+            "last": "Martinez"
         },
         "age": 25,
         "position": "Forward",
@@ -496,7 +496,7 @@
     },
     {
         "id": 26,
-        "number": "-",
+        "number": "DT",
         "name": {
             "first": "Lionel",
             "last": "Scaloni"
