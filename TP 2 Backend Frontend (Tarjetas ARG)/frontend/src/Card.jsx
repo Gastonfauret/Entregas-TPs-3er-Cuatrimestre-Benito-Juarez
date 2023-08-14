@@ -16,8 +16,6 @@ function Card({ player }) {
                     <p className='team'>{player.team}</p>
                 </div>
             </div>
-
-
         </div>
     )
 }
